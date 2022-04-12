@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpdlcrz
+- 👋 Hi, I’m @jpd7661
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Web Development @ The Odin Project
 - 💞️ I’m looking to collaborate on Web Developers around the world
